@@ -1,4 +1,4 @@
-# Mobile App MicroSolutions (移动App的专项解决方案库)
+# Mobile App MicroSolutions ([移动App的专项解决方案库](https://github.com/cleanupcrashanrjank/android_app_microsolution/issues))
 ## 起源（Reason）
 在2019年春节的放假前，我们团队在一起讨论我们团队的愿景和未来发展，讨论了许多，包括让QAPM被业界认可等等，
 但是我们团队的开发们更大激情在于我们的技术、经验能贡献社区，能帮助到使用App的用户、开发App的开发，
