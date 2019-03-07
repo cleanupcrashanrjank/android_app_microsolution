@@ -10,6 +10,11 @@ assignees: cleanupcrashanrjank
 ## 生成标题
 【Buffer too small】call java.io.FileOutputStream on x device
 
+## 影响范围
+- 项目：手Q、音乐等X个项目
+- 人数：1千万
+- 时间：3个月
+
 ## 生成Labels
 Disk（磁盘）
 
